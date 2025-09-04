@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jeremysande.github.io/sitemap.xml
